@@ -1,0 +1,9 @@
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney Colege in Virginia, looked up one of the more obscure Latin words, consectetur, from a Loem Isum passage, and going through the cites of the word in cassical literature, discvered the undbtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Borum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+
+
+- At least 2 years of experience in Data Science or closely related fields.
+- Must be skilled in Python/R and SQL
+- Must be proficient in data science-related concepts, including random variables, probability and probability distributions, parameter estimation, hypothesis testing, data indexing and partition, distributed processing frameworks, proficiency in handling and working with multiple forms of data (relational, semi-structured, time series, geo-location, image, text)
+Excellent communication and presentation skills in English
+- Strong working knowledge of Microsoft Office and similar applications
+- Prior teaching experience preferred
